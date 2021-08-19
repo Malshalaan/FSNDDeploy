@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="buildspec.yml">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/examples/Create_Pipeline/buildspec.yml.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
